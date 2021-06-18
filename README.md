@@ -3,17 +3,17 @@ SUBMISSION OR PROJECT NAME –
 
 Contents :
 •	Submission or project name
-o	Short description
-	What's the problem?
-	How can technology help?
-	The idea
-o	Demo video
-o	The architecture
-o	Long description
-o	Project roadmap
-o	Getting started
-o	Live demo
-o	Conclusion
+	Short description
+	What's the problem?
+	How can technology help?
+	The idea
+	Demo video
+	The architecture
+	Long description
+	Project roadmap
+	Getting started
+	Live demo
+	Conclusion
 
 #SHORT DESCRIPTION :- 
 •	What’s the Problem ?
