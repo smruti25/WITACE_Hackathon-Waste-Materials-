@@ -2,18 +2,24 @@ SUBMISSION OR PROJECT NAME –
 “Electricity Generation with Reducing Air-Pollution” (From Waste Materials)
 
 Contents :
-•	Submission or project name
-	Short description
-	What's the problem?
-	How can technology help?
-	The idea
-	Demo video
-	The architecture
-	Long description
-	Project roadmap
-	Getting started
-	Live demo
-	Conclusion
+Submission or project name
+Contents
+Short description
+What's the problem?
+How can technology help?
+The idea
+Demo video
+The architecture
+Long description
+Project roadmap
+Getting started
+Live demo
+Built with
+Contributing
+Versioning
+Authors
+License
+Acknowledgments
 
 #SHORT DESCRIPTION :- 
 •	What’s the Problem ?
