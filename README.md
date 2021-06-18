@@ -115,7 +115,8 @@ The main Instructions for running our project are:
 https://youtu.be/NFgQr1U680s 
 
 Presentation URL : 
-https://converter.idrsolutions.com/online-converter/output/fa3cf4b8-8c34-4c4f-94f7-ba2bd84ebb10/Generating_Electricity_with_Reducing_Air-Pollution-784/index.html?page=1
+
+https://drive.google.com/file/d/11wSFY8zRh2Ve3yfyBfWxgvgRlXr6cN7h/view?usp=drivesdkhttps://drive.google.com/file/d/11wSFY8zRh2Ve3yfyBfWxgvgRlXr6cN7h/view?usp=drivesdk
 
 ### CONCLUSION :
 
