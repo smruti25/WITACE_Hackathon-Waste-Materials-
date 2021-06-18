@@ -15,7 +15,7 @@ o	Getting started
 o	Live demo
 o	Conclusion
 
-SHORT DESCRIPTION :- 
+#SHORT DESCRIPTION :- 
 •	What’s the Problem ?
 Today‘s main issue is of garbage thrown by the people. These materials take more than 400 years to decompose so there is extreme need to reduce this waste materials. Current Generating Power Plants burn these materials and emit extreme Air Pollution which can be highly dangerous for our health. Excess amount of harmful gases can lower down the level of Oxygen leading to Lungs Issues. 
 
@@ -28,11 +28,11 @@ Various water treatment processes.
 •	The Idea :
 Garbage is burned in the furnace where the heating panels will absorb heat and convert to Electricity and passed on to various loads. The emitted smoke of garbage is exhausted to water tank where electrolysis process will separate CO2 to Carbon and Oxygen where carbon will settle down in water tank and oxygen will be released in air. The carbon water can be supplied to plants which will be useful for them.
 
-•	Demo Video :
+•	#Demo Video :
 Here is the attachment of the Project video,
 https://youtu.be/iSrodzZ_3V0 
 
-•	LONG DESCRIPTION :-
+•	#LONG DESCRIPTION :-
 
 Economic growth, changing production and consumption patterns are resulting into rapid increase in waste all over the globe. After food and paper waste, plastic waste is the major constitute of municipal and industrial waste in cities. Even the cities with low economic growth have started producing more plastic waste due to plastic packaging, shopping bags, PET bottles and other goods/ appliances using plastic as major component. This waste management and sanitization has turned into a major challenge for all. Due to lack of integrated waste management, most of the plastic waste is neither collected properly nor disposed in appropriate manner avoiding its negative impacts on environment and public health. 
 
@@ -42,12 +42,12 @@ Selected garbage is recycled Compost is generated from Organic waste. The Non �
 If we not became vigilant today then definitely garbage will take over all of us. Let us not forget that “We are a part of the environment, not apart from the environment.”
 
 
-•	THE ARCHITECTURE :
-
+•	#THE ARCHITECTURE :
+![Architecture Diagram - PowerPoint (Product Activation Failed) 17-06-2021 21_43_51](https://user-images.githubusercontent.com/86068948/122555447-f10faa80-d057-11eb-8251-360b475d4e57.png)
  
 
 
-•	PROJECT ROADMAP :
+•	#PROJECT ROADMAP :
 
 •	Reduces Garbage Pollution
   - Soil Pollution
@@ -60,20 +60,20 @@ If we not became vigilant today then definitely garbage will take over all of us
 •	Increases the Level of Oxygen
 
 
-•	GETTING STARTED :
+•	#GETTING STARTED :
 
 The main Instructions for running our project are:
 •	Handling the furnace temperature carefully.
 •	Handling the electricity distribution carefully.
 •	Not working close water due to various gases.
 
-DEMO VIDEO :
-
-![Architecture Diagram - PowerPoint (Product Activation Failed) 17-06-2021 21_43_51](https://user-images.githubusercontent.com/86068948/122555447-f10faa80-d057-11eb-8251-360b475d4e57.png)
+#DEMO VIDEO :
 
 
 
-•	CONCLUSION :
+
+
+•	#CONCLUSION :
 This electricity generating plants is the most efficient to convert to electricity. Our plants reduces the waste volume drastically in most Eco-Friendly manner, at the same time reducing the necessity of landfills. Garbage is very efficiently utilized and much needed electricity is generated, bringing the gap for electricity requirement. 
 It is time for all cities to pay attention to this source for power as an economical way to tackle the city waste and generate electricity..
 
