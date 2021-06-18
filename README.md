@@ -48,6 +48,7 @@ Garbage is burned in the furnace where the heating panels will absorb heat and c
 ### 	Demo Video :
 
 Here is the attachment of the Project video,
+
 https://youtu.be/iSrodzZ_3V0 
 
 # LONG DESCRIPTION 
@@ -62,10 +63,10 @@ Selected garbage is recycled Compost is generated from Organic waste. The Non â€
 
 
 ### THE ARCHITECTURE :
+![ce3a28e5-184d-48e2-8127-9015e2f52b0c](https://user-images.githubusercontent.com/86068948/122584376-ebc25800-d077-11eb-81a8-0c70e15e0658.png)
 
-![Architecture Diagram - PowerPoint (Product Activation Failed) 17-06-2021 21_43_51](https://user-images.githubusercontent.com/86068948/122555447-f10faa80-d057-11eb-8251-360b475d4e57.png)
+
  
-
 
 
 
@@ -111,6 +112,10 @@ The main Instructions for running our project are:
 
 ### DEMO VIDEO :
 
+https://youtu.be/NFgQr1U680s 
+
+Presentation URL : 
+https://converter.idrsolutions.com/online-converter/output/fa3cf4b8-8c34-4c4f-94f7-ba2bd84ebb10/Generating_Electricity_with_Reducing_Air-Pollution-784/index.html?page=1
 
 ### CONCLUSION :
 
