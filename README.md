@@ -3,7 +3,6 @@ SUBMISSION OR PROJECT NAME –
 
 Contents :
 Submission or project name
-
 Contents
 
 Short description
